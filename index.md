@@ -23,12 +23,11 @@ intelligence and machine learning.
 # Past editions
 * [EMSICC'24](https://emsicc.github.io/2024), Vienna, Austria
 * [EMSICC'23](https://emsicc2023.roc.cnam.fr/), Marrakech, Morocco
-* [EMSICC'22](https://emsicc2022.roc.cnam.fr/), Rome, Italy
-* [EMSICC'21](https://emsicc2021.roc.cnam.fr/), Rome, Italy
-* [EMSICC'20](https://emsicc2020.roc.cnam.fr/), Virtual, Online
-* [EMSICC'19](http://cedric.cnam.fr/workshops/emsicc19/index.html), Istanbul, Turkey
-* [EMSICC'18](http://cedric.cnam.fr/workshops/emsicc18/index.html), Barcelona, Spain
-* [EMSICC'17](http://cedric.cnam.fr/workshops/emsicc17/committee.html), Prague, Czech Republic
-* [EMSICC'16](http://cedric.cnam.fr/workshops/emsicc16/index.html), Vienna, Austria
-* [EMSICC'15](http://cedric.cnam.fr/workshops/emsicc15/index.html), Rome, Italy
-* [EMSICC'14](http://cedric.cnam.fr/workshops/emsicc14/index.html), Barcelona, Spain
+* [EMSICC'22](https://emsicc2022.roc.cnam.fr/), Rome, Italy | [Proceedings](https://www.computer.org/csdl/proceedings-article/ficloud/2022/935000z005/1HmkG6xEpNK)
+* [EMSICC'21](https://emsicc2021.roc.cnam.fr/), Rome, Italy | [Proceedings](https://www.computer.org/csdl/proceedings-article/ficloud/2021/257400z005/1yovfJ7BwYg)
+* [EMSICC'19](http://cedric.cnam.fr/workshops/emsicc19/index.html), Istanbul, Turkey | [Proceedings](https://www.computer.org/csdl/proceedings-article/ficloud/2019/288800z005/1h5YwIN9vSE)
+* [EMSICC'18](http://cedric.cnam.fr/workshops/emsicc18/index.html), Barcelona, Spain | [Proceedings](https://www.computer.org/csdl/proceedings-article/ficloud/2018/750300z005/13xI8A0ZNjc)
+* [EMSICC'17](http://cedric.cnam.fr/workshops/emsicc17/committee.html), Prague, Czech Republic | [Proceedings](https://www.computer.org/csdl/proceedings-article/ficloud/2017/2074ztoc/12OmNy5zsts)
+* [EMSICC'16](http://cedric.cnam.fr/workshops/emsicc16/index.html), Vienna, Austria | [Proceedings](https://www.computer.org/csdl/proceedings-article/ficloud/2016/4052ztoc/12OmNzT7Ozf)
+* [EMSICC'15](http://cedric.cnam.fr/workshops/emsicc15/index.html), Rome, Italy | [Proceedings](https://www.computer.org/csdl/proceedings-article/ficloud/2015/8103ztoc/12OmNwpoFIK)
+* [EMSICC'14](http://cedric.cnam.fr/workshops/emsicc14/index.html), Barcelona, Spain | [Proceedings](https://www.computer.org/csdl/proceedings-article/ficloud/2014/4357ztoc/12OmNrGb2df)
